@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.979b6232.css",
+    "main.js": "/static/js/main.5d9883ae.js",
+    "static/media/airplane-svgrepo-com (1).svg": "/static/media/airplane-svgrepo-com (1).e21a100e1f6036ab980a.svg",
+    "static/media/face-cold.png": "/static/media/face-cold.58eb6677a100b00b4b1d.png",
+    "static/media/face-else.png": "/static/media/face-else.d7111f9eff49824d0a7c.png",
+    "static/media/face-verygood.png": "/static/media/face-verygood.63b13b4dd540ad1fad68.png",
+    "static/media/face-sohot.png": "/static/media/face-sohot.bbfbb356b6f95b26a306.png",
+    "static/media/face-veryhot.png": "/static/media/face-veryhot.9d90691da1ca72e924fb.png",
+    "static/media/face-hot.png": "/static/media/face-hot.094988b5000c3010f0dd.png",
+    "static/media/face-good.png": "/static/media/face-good.44f206a441c8ad880d15.png",
+    "static/media/face-sunsun.png": "/static/media/face-sunsun.bf0b9b5308cacb696fed.png",
+    "static/media/snowflake-snow-svgrepo-com.svg": "/static/media/snowflake-snow-svgrepo-com.d0b1b86eab0a8ef25b39.svg",
+    "static/media/wind.svg": "/static/media/wind.c043776c9b528882c132.svg",
+    "static/media/thermometer.svg": "/static/media/thermometer.272eb0f51665053734c4.svg",
+    "static/media/rain-umbrella-svgrepo-com.svg": "/static/media/rain-umbrella-svgrepo-com.11044899d89d3fc072f9.svg",
+    "static/media/raindrop-drop-svgrepo-com.svg": "/static/media/raindrop-drop-svgrepo-com.1f837ee82618fe00c575.svg",
+    "static/media/good-two-svgrepo-com.svg": "/static/media/good-two-svgrepo-com.b29d042fd26a38da562b.svg",
+    "static/media/bad-two-svgrepo-com.svg": "/static/media/bad-two-svgrepo-com.4f9650d7ee969caa26de.svg",
+    "static/media/x-btn.svg": "/static/media/x-btn.f52a7d36baf4f9187df7.svg",
+    "static/media/face-frown-svgrepo-com.svg": "/static/media/face-frown-svgrepo-com.be2389fa73b20341382e.svg",
+    "static/media/face-smile-svgrepo-com.svg": "/static/media/face-smile-svgrepo-com.37a56d5477a248f816ee.svg",
+    "index.html": "/index.html",
+    "main.979b6232.css.map": "/static/css/main.979b6232.css.map",
+    "main.5d9883ae.js.map": "/static/js/main.5d9883ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.979b6232.css",
+    "static/js/main.5d9883ae.js"
+  ]
+}
